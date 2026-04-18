@@ -1,7 +1,7 @@
 import { tv, VariantProps } from 'tailwind-variants'
 
 export const groupVariants = tv({
-  base: 'flex flex-col',
+  base: 'flex',
   variants: {
     gap: {
       xs: 'gap-1',
