@@ -26,6 +26,13 @@
     --font-body: var(--font-manrope);
     --font-label: var(--font-inter);
     --font-headline: var(--font-news-reader);
+
+    --breakpoint-tiny-mobile: 320px;
+    --breakpoint-mobile: 640px;
+    --breakpoint-tablet: 1024px;
+    --breakpoint-laptop: 1440px;
+    --breakpoint-wide: 1920px;
+    --breakpoint-ultrawide: 2560px;
 }
 
 @media (prefers-color-scheme: dark) {
